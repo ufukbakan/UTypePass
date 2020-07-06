@@ -1,0 +1,10 @@
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\bin\Release\U Type Pass.exe.config
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\bin\Release\U Type Pass.exe
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\bin\Release\U Type Pass.pdb
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U Type Pass.csprojAssemblyReference.cache
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U_Type_Pass.Form1.resources
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U_Type_Pass.Properties.Resources.resources
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U Type Pass.csproj.GenerateResource.cache
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U Type Pass.csproj.CoreCompileInputs.cache
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U Type Pass.exe
+C:\Users\Last\source\repos\U Type Pass\U Type Pass\obj\Release\U Type Pass.pdb
